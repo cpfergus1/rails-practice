@@ -28,6 +28,7 @@ gem 'will_paginate-bootstrap'
 gem 'coffee-rails'
 gem 'rails-html-sanitizer'
 gem 'sdoc'
+gem 'bootstrap-sass'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
