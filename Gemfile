@@ -29,6 +29,9 @@ gem 'coffee-rails'
 gem 'rails-html-sanitizer'
 gem 'sdoc'
 gem 'bootstrap-sass'
+gem 'active_storage_validations'
+gem 'image_processing'
+gem 'mini_magick'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
