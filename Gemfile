@@ -32,7 +32,7 @@ gem 'bootstrap-sass'
 gem 'active_storage_validations'
 gem 'image_processing'
 gem 'mini_magick'
-gem 'aws-sdk-s3'
+gem 'aws-sdk-s3', required: false
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
